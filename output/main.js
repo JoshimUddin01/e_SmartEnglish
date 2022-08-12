@@ -6,3 +6,5 @@ nav_ic.addEventListener("click",()=>{
     let nav_menu = document.querySelector(".nab-bar");
     nav_menu.classList.toggle("hidden");
 })
+
+
